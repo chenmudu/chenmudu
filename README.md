@@ -5,4 +5,4 @@
 - 🍉 Shanghai Lantu Information Technology Co., Ltd.: 2019.02 - 2020.05 (途虎养车)
   - 🏃‍ Basic service maintenance & Biz Shopping cart developer。
 - 🍎 Shanghai E&P International,INC.                : 2020.05 - now      (亿通国际)
-  - 🏃‍ Basic service maintenance & Observability solution。
+  - 🏃‍ Basic service maintenance & Observability solution & Distributed service solution。
