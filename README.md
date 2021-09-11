@@ -2,4 +2,4 @@
 
 - 🌱 Xi'an University: 2015.08 - 2019.07.
 - 🍉 Working in Shanghai.Focus and work on observability. 
-- 🍎 Tends to do challenging things and has a strange temper.
+- 🍎 Tends to do challenging things.
