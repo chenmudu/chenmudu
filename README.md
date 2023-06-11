@@ -1,5 +1,5 @@
 ### about me 👋
 
-- 🌱 Xi'an University: 2015.08 - 2019.07.
-- 🍉 Working in Shanghai.Focus and work on observability. 
-- 🍎 Tends to do challenging things.
+- Work in the field of observability as an engineer and product manager.
+- Hate useless details.
+- Freedom has no price.
